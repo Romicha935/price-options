@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S23",
+      "price": 799,
+      "brand": "Samsung",
+      "features": ["6.1-inch display", "128GB storage", "50MP camera"]
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14 Pro",
+      "price": 999,
+      "brand": "Apple",
+      "features": ["6.1-inch Super Retina XDR", "256GB storage", "48MP camera"]
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 7",
+      "price": 599,
+      "brand": "Google",
+      "features": ["6.3-inch OLED", "128GB storage", "50MP camera"]
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 11",
+      "price": 699,
+      "brand": "OnePlus",
+      "features": ["6.7-inch AMOLED", "256GB storage", "50MP camera"]
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 13 Pro",
+      "price": 729,
+      "brand": "Xiaomi",
+      "features": ["6.73-inch AMOLED", "256GB storage", "50MP camera"]
+    }
+  ]
+  
